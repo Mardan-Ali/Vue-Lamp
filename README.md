@@ -1,1 +1,1 @@
-### A Lamp With Tooggle Functionality
+### A Lamp With Toggle Functionality
